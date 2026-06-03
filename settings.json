@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK ret",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Ahsan_Gamerz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ahsan2442.aternos.me",
+    "port": 20302,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "ahsan."
     },
     "anti-afk": {
       "enabled": true,
